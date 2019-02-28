@@ -69,7 +69,7 @@ if(process.env.NODE_ENV=='dev'){
 		} else {
 			console.log('no updates since data last stored');
 		}
-	}, 5000) //1800000
+	}, 1800000) //1800000 is 30 min
 }
 
 
