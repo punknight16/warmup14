@@ -1,0 +1,24 @@
+{
+  "name": "warmup14",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/punknight16/warmup14.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/punknight16/warmup14/issues"
+  },
+  "homepage": "https://github.com/punknight16/warmup14#readme",
+  "dependencies": {
+    "aws-sdk": "^2.412.0"
+  }
+}
